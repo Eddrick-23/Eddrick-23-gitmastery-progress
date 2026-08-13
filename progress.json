@@ -43,5 +43,12 @@
       "You have successfully undone the init operation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786609261.132077,
+    "completed_at": 1786609262.606455,
+    "comments": [],
+    "status": "Completed"
   }
 ]
