@@ -122,5 +122,14 @@
       "/Users/eddricklivando/Desktop/Eddrick/NUS/Uni modules/Y2S1/CS2103T/gitmastery-home/gitmastery-exercises/clone-repo/shapes"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786716647.033354,
+    "completed_at": 1786716649.875423,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
   }
 ]
