@@ -113,5 +113,14 @@
       "Great work using .gitignore!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786716417.324027,
+    "completed_at": 1786716422.330744,
+    "comments": [
+      "/Users/eddricklivando/Desktop/Eddrick/NUS/Uni modules/Y2S1/CS2103T/gitmastery-home/gitmastery-exercises/clone-repo/shapes"
+    ],
+    "status": "Error"
   }
 ]
